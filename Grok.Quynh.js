@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Grok - Thời trang
-// @namespace    https://github.com/ddtwp9z/grok-downloader
+// @namespace    https://github.com/ddtwp9z/grok-quynh
 // @version      1.0.4
 // @description  Auto create multiple videos from one image, upscale to HD and auto rename by image filename
 // @match        https://grok.com/imagine*
@@ -469,6 +469,7 @@
     document.body.appendChild(btn);
 
 })();
+
 
 
 
